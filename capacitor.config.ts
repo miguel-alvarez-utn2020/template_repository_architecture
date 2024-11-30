@@ -2,7 +2,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'Marvel_project',
+  appName: 'template_arquitecture_repository',
   webDir: 'www'
 };
 
