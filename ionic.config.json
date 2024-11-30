@@ -1,0 +1,7 @@
+{
+  "name": "Marvel_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
